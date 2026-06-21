@@ -1,0 +1,40 @@
+PRE-ACTION LEGAL NOTICE: Intent to Initiate Mass Arbitration & Regulatory Reporting (eDreams & Opodo)
+
+To the Legal, Compliance, and Data Protection Teams at eDreams ODIGEO (Vacaciones eDreams, S.L.),
+
+This email serves as a formal Pre-Action Notice of intent to initiate automated mass arbitration and submit comprehensive dossiers to EU consumer protection authorities (including the CNMC in Spain and AGCM in Italy).
+
+1. The Incidents in Question
+Recently, I utilized your platform and was subjected to multiple systemic failures and deceptive UI practices, specifically:
+* Frontend Data Corruption: Your platform suffers from a critical React array duplication bug that maliciously or negligently overwrites passenger details during browser autofill.
+* Customer Service Stonewalling: When I attempted to rectify this error, I was kept on hold for over 1.5 hours—racking up a £50 international phone bill—only to be falsely informed that the issue was resolved. I was then emailed and told to contact the airline (Emirates). Emirates confirmed they are legally prohibited from altering third-party agency bookings. Your management then blamed me for your system's failure, a known issue heavily documented across public forums.
+* Unauthorized "Dark Pattern" Billing: Worse, your system utilized Dark Patterns to attempt an unauthorized £99 charge the very next day. Forensic evidence confirms that even when users explicitly decline "Opodo Prime" or "eDreams Prime," your system initiates relentless, automated £69.99 rebilling attempts against their bank accounts week after week.
+
+2. Automated Legal Escalation via Aison 5 AI
+I am not just another frustrated consumer you can successfully ignore through bureaucratic customer service gating. I am a software engineer backed by Aison Legal, a state-of-the-art AI infrastructure.
+
+Over the past 2 hours, we have engineered and deployed an automated, mass-litigation ingestion engine. You can view the live portals containing intercepted DOM payloads, ISO 27001 violations, and our forensic technical evidence here:
+https://edreamsclassaction.com
+https://opodoclassaction.com
+
+At exactly 09:00 AM GMT the Clams forms will be live and working. (I am going to go and party now!). To accelerate this, our custom AI agents are actively scraping public forums, social media, and review platforms to find and directly notify all affected eDreams and Opodo customers of this class action.
+
+Simultaneously, our automated marketing engine will launch a global, data-driven awareness campaign targeting your existing user base.
+
+Furthermore, I have an upcoming interview with the BBC scheduled to publicly expose your corporate practices and direct viewers to our litigation portal. We will utilize our server clusters to automatically generate and dispatch legally binding mass-arbitration demands, individualized GDPR data portability requests, and automated regulatory complaints directly to your department and EU watchdogs on behalf of every user in our database.
+
+3. CEASE AND DESIST & Demand for Immediate Rectification
+We hereby demand that you immediately CEASE AND DESIST all deceptive "Dark Pattern" UI practices and unauthorized billing attempts globally.
+
+Furthermore, we demand the immediate, documented rectification of the passenger data corruption bug within your booking engine codebase. Be advised: your frontend architecture, DOM states, and network payloads will now be permanently, autonomously monitored 24/7 by Aison AI. If our systems detect that these predatory practices or data corruption bugs persist, the mass-arbitration engine will automatically escalate without further notice.
+
+We are fully prepared to throw the force of a supercomputer at your legal department. However, we are offering you a narrow 48-hour window to resolve this matter amicably before the automated system triggers the mass filings.
+
+I expect a response from a senior member of your legal or executive team within this timeframe to confirm that rectification is underway. A full refund plus compensation for my £50 phone bill and the passanger name changing as requested and that twat I spoke to firing unless he escalated this to legal within the 24 hours I told him to!
+
+Govern yourselves accordingly.
+
+Sincerely,
+
+Daniel Le Couilliard
+CEO and UPSET CUSTOMER!
